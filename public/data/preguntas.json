@@ -1,0 +1,1760 @@
+{
+  "titulo": "Rosco Historia",
+  "preguntas": [
+    {
+      "id": 1,
+      "pagina": 1,
+      "letra": "B",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Revolucionó el diseño editorial moderno durante su etapa como director artístico de la revista de moda Harper's Bazaar, entre 1934 y 1958. Su enfoque vanguardista transformó por completo la relación entre el texto, la fotografía y el espacio en blanco.",
+        "pregunta": "¿Cuál es el nombre del diseñador gráfico, fotógrafo y profesor ruso?"
+      },
+      "respuesta": {
+        "texto": "Alexey Brodovitch"
+      }
+    },
+    {
+      "id": 2,
+      "pagina": 1,
+      "letra": "F",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Más que el objeto en sí, a Moholy-Nagy le interesaba cómo esta máquina interactuaba con el entorno. Al girar filtraba y proyectaba luces y sombras cambiantes sobre las paredes.",
+        "pregunta": "¿Dónde y para qué utilizaban el Modulador Luz-Espacio?"
+      },
+      "respuesta": {
+        "texto": "Fotografía Bauhaus. Se utilizaba en la Bauhaus como un dispositivo experimental para investigar los efectos de la luz y el movimiento, generando sombras y reflejos cambiantes. Su objetivo era explorar el arte luminoso cinético y las nuevas posibilidades de la percepción visual."
+      }
+    },
+    {
+      "id": 3,
+      "pagina": 1,
+      "letra": "A",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "A lo largo de la historia han variado los medios, pero no la intención de comunicación.",
+        "pregunta": "¿En qué período los grandes templos griegos y estatuas de dioses fueron símbolo de poder, identidad cultural y política formando un sistema de comunicación?"
+      },
+      "respuesta": {
+        "texto": "Antigüedad"
+      }
+    },
+    {
+      "id": 4,
+      "pagina": 2,
+      "letra": "O",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Las Segundas Vanguardias del Siglo XX se desarrollaron con fuerza tras la Segunda Guerra Mundial, desplazando el epicentro del arte mundial de París a Nueva York.",
+        "pregunta": "¿A qué vanguardia corresponde la obra 'Campbell's Black Bean Soup' de Andy Warhol?"
+      },
+      "respuesta": {
+        "texto": "Pop Art"
+      }
+    },
+    {
+      "id": 5,
+      "pagina": 2,
+      "letra": "C",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Manuscritos realizados por los monjes copistas y los monjes iluminadores durante la Edad Media.",
+        "pregunta": "¿Cómo se denominan estos manuscritos?"
+      },
+      "respuesta": {
+        "texto": "Códice"
+      }
+    },
+    {
+      "id": 6,
+      "pagina": 2,
+      "letra": "M",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Fue el máximo exponente y fundador del Impresionismo.",
+        "pregunta": "¿Cuál es su apellido?"
+      },
+      "respuesta": {
+        "texto": "Monet"
+      }
+    },
+    {
+      "id": 7,
+      "pagina": 3,
+      "letra": "T",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Diseñador gráfico, ilustrador y director de arte suizo que revolucionó la identidad corporativa y el diseño publicitario de la posguerra mediante una icónica colaboración con General Dynamics.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Nitsche"
+      }
+    },
+    {
+      "id": 8,
+      "pagina": 3,
+      "letra": "F",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Transformó las estructuras del antiguo régimen monárquico, proclamó los derechos humanos universales y abrió paso al republicanismo.",
+        "pregunta": "¿Cuál es el nombre del acontecimiento político y social impulsado bajo el lema 'Libertad, igualdad y fraternidad'?"
+      },
+      "respuesta": {
+        "texto": "Revolución Francesa"
+      }
+    },
+    {
+      "id": 9,
+      "pagina": 3,
+      "letra": "R",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Su estilo limpio, preciso y de tintes publicitarios influyó en el Arte Pop, el Arte Conceptual y el diseño de portadas de discos.",
+        "pregunta": "¿Cómo se llama el maestro del surrealismo conceptual belga?"
+      },
+      "respuesta": {
+        "texto": "René Magritte"
+      }
+    },
+    {
+      "id": 10,
+      "pagina": 4,
+      "letra": "H",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Fotógrafo y diseñador gráfico suizo que transformó la identidad visual de la marca de muebles Knoll entre 1946 y 1966.",
+        "pregunta": "¿Cómo se llama?"
+      },
+      "respuesta": {
+        "texto": "Herbert Matter"
+      }
+    },
+    {
+      "id": 11,
+      "pagina": 4,
+      "letra": "G",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Durante el Mayo Francés estudiantes y artistas inundaron las calles con carteles de propaganda realizados mediante una técnica de impresión rápida.",
+        "pregunta": "¿Qué técnica utilizaron?"
+      },
+      "respuesta": {
+        "texto": "Serigrafía"
+      }
+    },
+    {
+      "id": 12,
+      "pagina": 4,
+      "letra": "V",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Se adoptaron antes de la Primera Guerra Mundial desplazando al formato vertical europeo tradicional.",
+        "pregunta": "¿Cómo se llaman estos grandes soportes?"
+      },
+      "respuesta": {
+        "texto": "Valla publicitaria"
+      }
+    },
+    {
+      "id": 13,
+      "pagina": 5,
+      "letra": "M",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Pintor francés figura clave en la transición del Realismo al Impresionismo.",
+        "pregunta": "¿Cuál es su apellido?"
+      },
+      "respuesta": {
+        "texto": "Manet"
+      }
+    },
+    {
+      "id": 14,
+      "pagina": 5,
+      "letra": "I",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "La versión actual del logotipo de Vogue se diseñó en 1955.",
+        "pregunta": "¿Cuál es el apellido del tipógrafo francés que diseñó la tipografía utilizada?"
+      },
+      "respuesta": {
+        "texto": "Didot"
+      }
+    },
+    {
+      "id": 15,
+      "pagina": 5,
+      "letra": "D",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Man Ray fue uno de los pilares más revolucionarios del arte de vanguardia del siglo XX.",
+        "pregunta": "¿Con qué movimiento vanguardista lo relacionamos?"
+      },
+      "respuesta": {
+        "texto": "Dadaísmo"
+      }
+    },
+    {
+      "id": 16,
+      "pagina": 6,
+      "letra": "K",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Diseñador gráfico y editor alemán que utilizó la publicidad, el cartel comercial y la postal para influenciar al ciudadano promedio.",
+        "pregunta": "¿Cómo se llama?"
+      },
+      "respuesta": {
+        "texto": "Klaus Staeck"
+      }
+    },
+    {
+      "id": 17,
+      "pagina": 6,
+      "letra": "N",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Pionero de la publicidad corporativa, el diseño editorial y la identidad visual con un estilo geométrico y riguroso.",
+        "pregunta": "¿Cuál es el apellido del diseñador gráfico suizo?"
+      },
+      "respuesta": {
+        "texto": "Nitsche"
+      }
+    },
+    {
+      "id": 18,
+      "pagina": 6,
+      "letra": "U",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Hochschule für Gestaltung fue fundada por Inge Aicher-Scholl, Otl Aicher y Max Bill en 1953.",
+        "pregunta": "¿Con qué nombre es conocida esta escuela?"
+      },
+      "respuesta": {
+        "texto": "Ulm"
+      }
+    },
+    {
+      "id": 19,
+      "pagina": 7,
+      "letra": "S",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Buscó liberar el potencial del subconsciente mediante una técnica pictórica meticulosa para representar visiones oníricas.",
+        "pregunta": "¿Cuál es el nombre del máximo exponente del Surrealismo?"
+      },
+      "respuesta": {
+        "texto": "Salvador Dalí"
+      }
+    },
+    {
+      "id": 20,
+      "pagina": 7,
+      "letra": "O",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "La representación visual de la Iglesia Católica cumplió un rol fundamental durante la Edad Media.",
+        "pregunta": "¿Qué función cumplía frente al analfabetismo?"
+      },
+      "respuesta": {
+        "texto": "Comunicación"
+      }
+    },
+    {
+      "id": 21,
+      "pagina": 7,
+      "letra": "L",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Obra de Oskar Schlemmer que revolucionó la danza al fusionar movimiento corporal, geometría, escultura y arquitectura.",
+        "pregunta": "¿Cuál es el nombre de la obra?"
+      },
+      "respuesta": {
+        "texto": "Ballet Triádico"
+      }
+    },
+    {
+      "id": 22,
+      "pagina": 8,
+      "letra": "K",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Pintor, fotógrafo, diseñador, teórico del arte y educador húngaro que dirigió el Taller de Luz y Color en la Nueva Bauhaus de Chicago.",
+        "pregunta": "¿Cuál es su apellido?"
+      },
+      "respuesta": {
+        "texto": "György Kepes"
+      }
+    },
+    {
+      "id": 23,
+      "pagina": 8,
+      "letra": "X",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Una de las obras maestras de Miguel Ángel y una de las cumbres del Renacimiento.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Capilla Sixtina"
+      }
+    },
+    {
+      "id": 24,
+      "pagina": 8,
+      "letra": "V",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Se convirtió en el mayor centro impresor de Europa durante el Renacimiento.",
+        "pregunta": "¿Cuál es el nombre de la ciudad?"
+      },
+      "respuesta": {
+        "texto": "Venecia"
+      }
+    },
+    {
+      "id": 25,
+      "pagina": 9,
+      "letra": "O",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Moldeó la percepción cultural de la vida cotidiana en Estados Unidos desde 1916 hasta 1963 mediante las portadas de The Saturday Evening Post.",
+        "pregunta": "¿Cuál es el nombre del pintor e ilustrador?"
+      },
+      "respuesta": {
+        "texto": "Norman Rockwell"
+      }
+    },
+    {
+      "id": 26,
+      "pagina": 9,
+      "letra": "U",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "El afiche de absenta diseñado por Nover presenta influencia del orientalismo y del modernismo.",
+        "pregunta": "¿A qué período histórico y movimiento artístico pertenece?"
+      },
+      "respuesta": {
+        "texto": "Art Nouveau - Modernidad"
+      }
+    },
+    {
+      "id": 27,
+      "pagina": 9,
+      "letra": "Ñ",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "\"Todo es diseño, ¡Todo!\"",
+        "pregunta": "¿Qué elemento corresponde a esta definición?"
+      },
+      "respuesta": {
+        "texto": "Paul Rand"
+      }
+    },
+    {
+      "id": 28,
+      "pagina": 10,
+      "letra": "T",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Movimiento vanguardista del siglo XX que buscó romper radicalmente con la tradición académica e histórica, glorificando la velocidad y la máquina.",
+        "pregunta": "¿Cuál es el nombre de este movimiento?"
+      },
+      "respuesta": {
+        "texto": "Futurismo"
+      }
+    },
+    {
+      "id": 29,
+      "pagina": 10,
+      "letra": "C",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Pintor italiano considerado el primer gran exponente de la pintura barroca gracias a su uso dramático del claroscuro.",
+        "pregunta": "¿Cuál es su apellido?"
+      },
+      "respuesta": {
+        "texto": "Caravaggio"
+      }
+    },
+    {
+      "id": 30,
+      "pagina": 10,
+      "letra": "E",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Las Imágenes de Épinal fueron fundamentales para la historia de la estampa popular y precursoras del cómic moderno.",
+        "pregunta": "¿A qué período histórico y movimiento artístico pertenecieron?"
+      },
+      "respuesta": {
+        "texto": "Realismo, Iluminismo"
+      }
+    },
+    {
+      "id": 31,
+      "pagina": 11,
+      "letra": "P",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Aplicó la estética industrial, geométrica y mecánica directamente al diseño gráfico y comercial. Fue una de las figuras más polifacéticas del Futurismo italiano.",
+        "pregunta": "¿Cuál es el apellido del pintor, escultor, diseñador gráfico, escenógrafo y publicista italiano?"
+      },
+      "respuesta": {
+        "texto": "Fortunato Depero"
+      }
+    },
+    {
+      "id": 32,
+      "pagina": 11,
+      "letra": "Z",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Artista, arquitecto, diseñador gráfico y fotógrafo ruso que actuó como puente entre la URSS y las vanguardias europeas, influyendo en el diseño editorial moderno.",
+        "pregunta": "¿Cómo se llamaba?"
+      },
+      "respuesta": {
+        "texto": "El Lissitzky"
+      }
+    },
+    {
+      "id": 33,
+      "pagina": 11,
+      "letra": "H",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Sucesor de Alexey Brodovitch en Harper's Bazaar. Fue director de arte, fotógrafo y diseñador gráfico.",
+        "pregunta": "¿Cuál es el nombre del diseñador austríaco reconocido por redefinir la identidad visual de las revistas modernas?"
+      },
+      "respuesta": {
+        "texto": "Henry Wolf"
+      }
+    },
+    {
+      "id": 34,
+      "pagina": 12,
+      "letra": "W",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Primera sede de la escuela Bauhaus fundada por Walter Gropius en 1919.",
+        "pregunta": "¿Dónde estaba ubicada?"
+      },
+      "respuesta": {
+        "texto": "Weimar"
+      }
+    },
+    {
+      "id": 35,
+      "pagina": 12,
+      "letra": "G",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Sistema utilizado para organizar el contenido logrando composiciones claras y ordenadas, característico de las escuelas de Basilea y Zúrich.",
+        "pregunta": "¿Cómo se denomina este sistema de organización visual?"
+      },
+      "respuesta": {
+        "texto": "Grillas / Retículas"
+      }
+    },
+    {
+      "id": 36,
+      "pagina": 12,
+      "letra": "J",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Vanguardia liderada por Piet Mondrian, Theo van Doesburg y Vilmos Huszár que buscó un arte puro y universal.",
+        "pregunta": "¿Cuál es el nombre del movimiento neerlandés?"
+      },
+      "respuesta": {
+        "texto": "De Stijl"
+      }
+    },
+    {
+      "id": 37,
+      "pagina": 13,
+      "letra": "W",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Arquitecto, urbanista y diseñador alemán que, tras exiliarse en Estados Unidos, fue profesor y jefe del Departamento de Arquitectura de Harvard.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Walter Gropius"
+      }
+    },
+    {
+      "id": 38,
+      "pagina": 13,
+      "letra": "L",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "\"Die Neue Typographie\" fue publicada en 1928 e influenciada por el Constructivismo soviético, El Lissitzky y la Bauhaus.",
+        "pregunta": "¿Cuál es el apellido del diseñador gráfico y teórico alemán que publicó este manifiesto?"
+      },
+      "respuesta": {
+        "texto": "Jan Tschichold"
+      }
+    },
+    {
+      "id": 39,
+      "pagina": 13,
+      "letra": "S",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Referente del Neoimpresionismo que reemplazó la pincelada instintiva por una técnica científica basada en la teoría óptica del color.",
+        "pregunta": "¿Cuál es su apellido?"
+      },
+      "respuesta": {
+        "texto": "Georges Seurat"
+      }
+    },
+    {
+      "id": 40,
+      "pagina": 14,
+      "letra": "Y",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Maiakovski fundó junto con Rodchenko una agencia publicitaria estatal tras la Revolución de Octubre.",
+        "pregunta": "¿Cuál era su función?"
+      },
+      "respuesta": {
+        "texto": "Copywriter. Escribía eslóganes cortos, rimados y potentes."
+      }
+    },
+    {
+      "id": 41,
+      "pagina": 14,
+      "letra": "D",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "La película 'Metrópolis', dirigida por Fritz Lang en 1927.",
+        "pregunta": "¿A qué período y movimiento artístico corresponde?"
+      },
+      "respuesta": {
+        "texto": "Art Decó, Modernismo"
+      }
+    },
+    {
+      "id": 42,
+      "pagina": 14,
+      "letra": "A",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Movimiento liderado por William Morris como respuesta crítica a la producción industrial masiva.",
+        "pregunta": "¿Cuál es el nombre del movimiento precursor del Art Nouveau?"
+      },
+      "respuesta": {
+        "texto": "Arts and Crafts"
+      }
+    },
+    {
+      "id": 43,
+      "pagina": 15,
+      "letra": "P",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Sistema de impresión patentado en 1847 por el inventor estadounidense Richard March Hoe. Revolucionó la industria periodística al permitir la producción masiva y veloz de diarios.",
+        "pregunta": "¿Cómo se llama esta máquina?"
+      },
+      "respuesta": {
+        "texto": "Prensa de vapor"
+      }
+    },
+    {
+      "id": 44,
+      "pagina": 15,
+      "letra": "I",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Vanguardia nacida en Europa como reflejo del existencialismo, el trauma de la posguerra y el rechazo a la racionalidad geométrica.",
+        "pregunta": "¿Cuál es el nombre de esta vanguardia surgida a finales de la década de 1940 y consolidada durante los años 50?"
+      },
+      "respuesta": {
+        "texto": "Informalismo"
+      }
+    },
+    {
+      "id": 45,
+      "pagina": 15,
+      "letra": "E",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Nació en Europa como expresión artística y luego migró a Estados Unidos, donde el sector privado la transformó en una herramienta de consumo masivo.",
+        "pregunta": "¿Cuál es el nombre de la técnica adoptada por las agencias de publicidad y revistas para cautivar al público?"
+      },
+      "respuesta": {
+        "texto": "Diseño Experimental"
+      }
+    },
+    {
+      "id": 46,
+      "pagina": 16,
+      "letra": "Q",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Escultura hiperrealista creada por Duane Hanson en 1988 que retrata a tamaño natural a una trabajadora común de la sociedad estadounidense.",
+        "pregunta": "¿Cómo se llama la obra?"
+      },
+      "respuesta": {
+        "texto": "Queenie II"
+      }
+    },
+    {
+      "id": 47,
+      "pagina": 16,
+      "letra": "B",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Escuela alemana de arte, artesanía, arquitectura y diseño fundada por Walter Gropius en 1919.",
+        "pregunta": "¿Cuál es el nombre de esta escuela?"
+      },
+      "respuesta": {
+        "texto": "Bauhaus"
+      }
+    },
+    {
+      "id": 48,
+      "pagina": 16,
+      "letra": "Ñ",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Viñeta",
+        "pregunta": "\"El diseño es pensamiento hecho visual.\" — ."
+      },
+      "respuesta": {
+        "texto": "Saul Bass"
+      }
+    },
+    {
+      "id": 49,
+      "pagina": 17,
+      "letra": "R",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Mientras las vanguardias buscaban la abstracción, él ilustraba de manera realista y definió el imaginario colectivo de la sociedad norteamericana de mediados del siglo XX.",
+        "pregunta": "¿Cuál es el apellido del ilustrador?"
+      },
+      "respuesta": {
+        "texto": "Norman Rockwell"
+      }
+    },
+    {
+      "id": 50,
+      "pagina": 17,
+      "letra": "Y",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Artista japonesa nacida en 1929, considerada la artista viva más cotizada del mundo. Su obra se caracteriza por lunares, redes infinitas y calabazas.",
+        "pregunta": "¿Cuál es el nombre de la artista pionera del Arte Conceptual?"
+      },
+      "respuesta": {
+        "texto": "Yayoi Kusama"
+      }
+    },
+    {
+      "id": 51,
+      "pagina": 17,
+      "letra": "J",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Sus afiches para la guerra de Estados Unidos son considerados ejemplos de economía visual: una idea, una imagen y un impacto.",
+        "pregunta": "¿Cuál es el nombre del maestro de la escuela francesa que diseñó este afiche?"
+      },
+      "respuesta": {
+        "texto": "Jean Carlu"
+      }
+    },
+    {
+      "id": 52,
+      "pagina": 18,
+      "letra": "Z",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "La Kunstgewerbeschule se convirtió en una escuela clave para la formación de diseñadores, caracterizada por el uso de tipografías sans-serif, retículas y diseño tipográfico.",
+        "pregunta": "¿Con qué nombre se conoce a la escuela dirigida por Josef Müller-Brockmann?"
+      },
+      "respuesta": {
+        "texto": "Zúrich"
+      }
+    },
+    {
+      "id": 53,
+      "pagina": 18,
+      "letra": "Q",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "El manifiesto Der Blaue Reiter fue publicado en Múnich en 1912 por Wassily Kandinsky y Franz Marc para unificar las vanguardias europeas.",
+        "pregunta": "¿Qué formato tenía esta publicación teórica?"
+      },
+      "respuesta": {
+        "texto": "Almanaque"
+      }
+    },
+    {
+      "id": 54,
+      "pagina": 18,
+      "letra": "O",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "A mediados del siglo XIV apareció en Europa un sistema de impresión que permitía hacer copias a partir de un original y era utilizado por la Iglesia y el Estado para difundir imágenes y mensajes.",
+        "pregunta": "¿Cómo se llama este sistema de impresión?"
+      },
+      "respuesta": {
+        "texto": "Xilografía"
+      }
+    },
+    {
+      "id": 55,
+      "pagina": 19,
+      "letra": "C",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Movimiento artístico creado en París por Pablo Picasso y Georges Braque entre 1907 y 1914 que destruyó la perspectiva tradicional.",
+        "pregunta": "¿Cuál es el nombre de esta vanguardia?"
+      },
+      "respuesta": {
+        "texto": "Cubismo"
+      }
+    },
+    {
+      "id": 56,
+      "pagina": 19,
+      "letra": "I",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "László Moholy-Nagy definía la tipografía como una organización óptico-tipográfica.",
+        "pregunta": "Según el profesor de la Bauhaus, ¿qué valor tiene la letra?"
+      },
+      "respuesta": {
+        "texto": "Imagen"
+      }
+    },
+    {
+      "id": 57,
+      "pagina": 19,
+      "letra": "M",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Artista del Realismo francés que dignificó la vida rural y el trabajo campesino.",
+        "pregunta": "¿Cuál es su apellido?"
+      },
+      "respuesta": {
+        "texto": "Millet"
+      }
+    },
+    {
+      "id": 58,
+      "pagina": 20,
+      "letra": "H",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Característica del arte barroco que consiste en llenar completamente el espacio disponible con elementos decorativos.",
+        "pregunta": "¿Cómo se denomina?"
+      },
+      "respuesta": {
+        "texto": "Horror Vacui"
+      }
+    },
+    {
+      "id": 59,
+      "pagina": 20,
+      "letra": "P",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Estilo de ilustración popularizado por Alberto Vargas mediante sus famosas Varga Girls.",
+        "pregunta": "¿Cómo se denomina este estilo?"
+      },
+      "respuesta": {
+        "texto": "Pin-up"
+      }
+    },
+    {
+      "id": 60,
+      "pagina": 20,
+      "letra": "S",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Movimiento artístico donde Max Ernst buscó representar el universo de los sueños y el inconsciente.",
+        "pregunta": "¿Cómo se denomina este movimiento?"
+      },
+      "respuesta": {
+        "texto": "Surrealismo"
+      }
+    },
+    {
+      "id": 61,
+      "pagina": 21,
+      "letra": "D",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Diseñadora y cartelista destacada de la gráfica publicitaria alemana de los años veinte.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Dore Corty"
+      }
+    },
+    {
+      "id": 62,
+      "pagina": 21,
+      "letra": "J",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Figura destacada del Expresionismo Abstracto Americano que desarrolló el action painting y el dripping.",
+        "pregunta": "¿Cuál es el nombre del pintor?"
+      },
+      "respuesta": {
+        "texto": "Jackson Pollock"
+      }
+    },
+    {
+      "id": 63,
+      "pagina": 21,
+      "letra": "L",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Diseñador checoslovaco pionero del diseño de la información y la arquitectura de la información.",
+        "pregunta": "¿Cómo se llama este diseñador?"
+      },
+      "respuesta": {
+        "texto": "Ladislav Sutnar"
+      }
+    },
+    {
+      "id": 64,
+      "pagina": 22,
+      "letra": "F",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Fotografía tomada por Alfred Eisenstaedt para LIFE en 1945.",
+        "pregunta": "¿Qué género periodístico hizo famosa la revista LIFE?"
+      },
+      "respuesta": {
+        "texto": "Fotoperiodismo"
+      }
+    },
+    {
+      "id": 65,
+      "pagina": 22,
+      "letra": "O",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "En el Renacimiento el libro impreso incorporó un sellado ubicado al final del libro.",
+        "pregunta": "¿Cómo se llama y para qué servía?"
+      },
+      "respuesta": {
+        "texto": "Colofón. Se ubicaba en la última página e indicaba la fecha y el lugar donde el libro terminaba de imprimirse."
+      }
+    },
+    {
+      "id": 66,
+      "pagina": 22,
+      "letra": "A",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Rama del Informalismo creada por Jean Dubuffet basada en la expresión intuitiva y espontánea.",
+        "pregunta": "¿Cómo se llama?"
+      },
+      "respuesta": {
+        "texto": "Art Brut"
+      }
+    },
+    {
+      "id": 67,
+      "pagina": 23,
+      "letra": "R",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Período en el que el arte fue entendido como una forma de conocimiento, integrando ciencia, filosofía y matemática.",
+        "pregunta": "¿A qué período y movimiento corresponde?"
+      },
+      "respuesta": {
+        "texto": "Renacimiento, Iluminismo"
+      }
+    },
+    {
+      "id": 68,
+      "pagina": 23,
+      "letra": "T",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "En la URSS el artista deja de ser un creador individual para convertirse en constructor de la revolución.",
+        "pregunta": "¿Cómo se percibe el artista respecto a la revolución?"
+      },
+      "respuesta": {
+        "texto": "Técnico de la revolución"
+      }
+    },
+    {
+      "id": 69,
+      "pagina": 23,
+      "letra": "K",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Artista-ingeniero soviético que llevó al extremo el Manifiesto Productivista.",
+        "pregunta": "¿Cuál es su apellido?"
+      },
+      "respuesta": {
+        "texto": "Rodchenko"
+      }
+    },
+    {
+      "id": 70,
+      "pagina": 24,
+      "letra": "G",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Pintor posimpresionista francés que abandonó Europa para vivir en la Polinesia Francesa.",
+        "pregunta": "¿Cuál es su apellido?"
+      },
+      "respuesta": {
+        "texto": "Gauguin"
+      }
+    },
+    {
+      "id": 71,
+      "pagina": 24,
+      "letra": "B",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Los escudos heráldicos se utilizaban como sistema de identificación personal.",
+        "pregunta": "¿Qué sector de la sociedad los utilizaba?"
+      },
+      "respuesta": {
+        "texto": "Nobleza"
+      }
+    },
+    {
+      "id": 72,
+      "pagina": 24,
+      "letra": "E",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Creación de Rowland Hill en 1840 que revolucionó la comunicación durante el Romanticismo.",
+        "pregunta": "¿Cuál fue esta creación?"
+      },
+      "respuesta": {
+        "texto": "Estampilla"
+      }
+    },
+    {
+      "id": 73,
+      "pagina": 25,
+      "letra": "H",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Pintor, grabador y cartelista francés que elevó el cartel a una expresión artística.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Henri Toulouse-Lautrec"
+      }
+    },
+    {
+      "id": 74,
+      "pagina": 25,
+      "letra": "Y",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Artista referente del Impresionismo que retrató la vida cotidiana de las mujeres occidentales.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Mary Cassatt"
+      }
+    },
+    {
+      "id": 75,
+      "pagina": 25,
+      "letra": "Z",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Junto con Leonardo da Vinci y Miguel Ángel conformó la tríada de grandes maestros del Cinquecento.",
+        "pregunta": "¿Cuál es el nombre del autor de 'La escuela de Atenas'?"
+      },
+      "respuesta": {
+        "texto": "Rafael Sanzio"
+      }
+    },
+    {
+      "id": 76,
+      "pagina": 26,
+      "letra": "W",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Institución fundada en Múnich en 1907 por Hermann Muthesius que unió artistas, artesanos e industriales.",
+        "pregunta": "¿Cómo la denomina Enric Satué?"
+      },
+      "respuesta": {
+        "texto": "Werkbund"
+      }
+    },
+    {
+      "id": 77,
+      "pagina": 26,
+      "letra": "N",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Artista textil nacida en Berlín que elevó el tejido al mismo nivel que la pintura abstracta.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Merli Ehrman"
+      }
+    },
+    {
+      "id": 78,
+      "pagina": 26,
+      "letra": "Ñ",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "\"El diseño no es decoración, es comunicación visual.\" — Milton Glaser.",
+        "pregunta": "¿Qué elemento corresponde?"
+      },
+      "respuesta": {
+        "texto": "Viñeta"
+      }
+    },
+    {
+      "id": 79,
+      "pagina": 27,
+      "letra": "X",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Rodchenko y Maiakovski utilizaban enormes signos gráficos para enfatizar sus mensajes revolucionarios.",
+        "pregunta": "¿Qué signo utilizaban además de la tipografía?"
+      },
+      "respuesta": {
+        "texto": "Signo de exclamación"
+      }
+    },
+    {
+      "id": 80,
+      "pagina": 27,
+      "letra": "U",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Bibendum, la mascota de Michelin creada por O'Galop en 1898, también fue considerada precursora de una vanguardia artística.",
+        "pregunta": "¿De cuál?"
+      },
+      "respuesta": {
+        "texto": "Surrealismo"
+      }
+    },
+    {
+      "id": 81,
+      "pagina": 27,
+      "letra": "Q",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Durante el Realismo del siglo XIX los envases abandonaron la iconografía medieval.",
+        "pregunta": "¿Qué nuevo estilo adoptó el diseño gráfico?"
+      },
+      "respuesta": {
+        "texto": "Estilo de Máquina"
+      }
+    },
+     {
+      "id": 82,
+      "pagina": 28,
+      "letra": "C",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Por primera vez en la URSS el arte llegó a un público masivo donde el héroe ya no era un individuo sino la masa. Lenin comprendió que era un arma poderosa para la comunicación.",
+        "pregunta": "¿A qué expresión artística hace referencia?"
+      },
+      "respuesta": {
+        "texto": "Cine o cinematografía"
+      }
+    },
+    {
+      "id": 83,
+      "pagina": 28,
+      "letra": "L",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Obra de Théodore Géricault basada en un naufragio real de la marina francesa, considerada un ícono del Romanticismo.",
+        "pregunta": "¿Cuál es el nombre de la obra?"
+      },
+      "respuesta": {
+        "texto": "La balsa de la Medusa"
+      }
+    },
+    {
+      "id": 84,
+      "pagina": 28,
+      "letra": "P",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Los artistas impresionistas trasladaban su taller al exterior para pintar directamente frente al motivo.",
+        "pregunta": "¿Cuál es el concepto técnico y espiritual del Impresionismo?"
+      },
+      "respuesta": {
+        "texto": "Plein air"
+      }
+    },
+    {
+      "id": 85,
+      "pagina": 29,
+      "letra": "G",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Director de arte de las tapas de Esquire en los años 60, conocido por su provocación e ironía.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "George Lois"
+      }
+    },
+    {
+      "id": 86,
+      "pagina": 29,
+      "letra": "A",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Pinturas, esculturas, mosaicos y otras manifestaciones visuales eran utilizadas con fines informativos y simbólicos.",
+        "pregunta": "¿A qué período histórico pertenecen los mosaicos?"
+      },
+      "respuesta": {
+        "texto": "Antigüedad"
+      }
+    },
+    {
+      "id": 87,
+      "pagina": 29,
+      "letra": "W",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "El estilo americano consolidó la publicidad moderna uniendo forma, función y psicología del consumidor.",
+        "pregunta": "¿Cuál fue una de las agencias referentes?"
+      },
+      "respuesta": {
+        "texto": "Walter Thompson"
+      }
+    },
+    {
+      "id": 88,
+      "pagina": 30,
+      "letra": "B",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Chris Burden utilizó su propio cuerpo como soporte artístico al recibir un disparo durante una performance.",
+        "pregunta": "¿A qué vanguardia pertenece este tipo de obra?"
+      },
+      "respuesta": {
+        "texto": "Body Art"
+      }
+    },
+    {
+      "id": 89,
+      "pagina": 30,
+      "letra": "I",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Ornamentación realizada por los monjes en los libros manuscritos medievales.",
+        "pregunta": "¿Cómo se denomina?"
+      },
+      "respuesta": {
+        "texto": "Iniciales miniadas"
+      }
+    },
+    {
+      "id": 90,
+      "pagina": 30,
+      "letra": "D",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Artista surrealista que creó el método paranoico-crítico para acceder al subconsciente.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Salvador Dalí"
+      }
+    },
+    {
+      "id": 91,
+      "pagina": 31,
+      "letra": "M",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Después de 1945 la prosperidad económica permitió el crecimiento multinacional de las agencias de publicidad.",
+        "pregunta": "¿Cómo se llama la avenida de Nueva York conocida como 'el cuartel general de la persuasión'?"
+      },
+      "respuesta": {
+        "texto": "Madison Avenue"
+      }
+    },
+    {
+      "id": 92,
+      "pagina": 31,
+      "letra": "F",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Durante el Rococó surgieron publicaciones especialmente pensadas para niños.",
+        "pregunta": "¿Cómo se llamaban estas publicaciones?"
+      },
+      "respuesta": {
+        "texto": "Libros infantiles ilustrados"
+      }
+    },
+    {
+      "id": 93,
+      "pagina": 31,
+      "letra": "V",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Director de arte autodidacta que estuvo al frente de Harper's Bazaar durante 25 años.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Alexey Brodovitch"
+      }
+    },
+    {
+      "id": 94,
+      "pagina": 32,
+      "letra": "H",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Diseñador suizo que consolidó el diseño como una ciencia de la comunicación.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Helmut Krone"
+      }
+    },
+    {
+      "id": 95,
+      "pagina": 32,
+      "letra": "U",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Durante el período entre guerras el diseño francés celebró la vida y el consumo dando lugar a los 'años locos'.",
+        "pregunta": "¿Cuál es el nombre del diseñador del afiche?"
+      },
+      "respuesta": {
+        "texto": "Paul Colin"
+      }
+    },
+    {
+      "id": 96,
+      "pagina": 32,
+      "letra": "J",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Artista neoclásico que difundía valores morales y racionales a través de sus obras.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Jacques Louis David"
+      }
+    },
+    {
+      "id": 97,
+      "pagina": 33,
+      "letra": "K",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Diseñador alemán del afiche de margarina representativo de la evolución hacia la abstracción racional.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Karl Schulpig"
+      }
+    },
+    {
+      "id": 98,
+      "pagina": 33,
+      "letra": "Ñ",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "\"Lo que importa es estar presente en el trabajo que haces.\" — Paula Scher.",
+        "pregunta": "¿Qué elemento corresponde?"
+      },
+      "respuesta": {
+        "texto": "Viñeta"
+      }
+    },
+    {
+      "id": 99,
+      "pagina": 33,
+      "letra": "R",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Diseñador gráfico considerado el más distinguido de Estados Unidos y padre de la identidad corporativa moderna.",
+        "pregunta": "¿Cuál es su apellido?"
+      },
+      "respuesta": {
+        "texto": "Paul Rand"
+      }
+    },
+    {
+      "id": 100,
+      "pagina": 34,
+      "letra": "S",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "\"Orange and Yellow\" de Mark Rothko (1956) es una obra referente de la pintura de campos de color.",
+        "pregunta": "¿A qué movimiento artístico pertenece?"
+      },
+      "respuesta": {
+        "texto": "Expresionismo Abstracto Americano"
+      }
+    },
+    {
+      "id": 101,
+      "pagina": 34,
+      "letra": "E",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "El arte Rococó solo pretendía deleitar a una sociedad acomodada, realmente ociosa, para la cual el único pecado era aburrir.",
+        "pregunta": "¿Qué sector de la sociedad francesa del siglo XVIII disfrutaba de los salones decorados al estilo Rococó?"
+      },
+      "respuesta": {
+        "texto": "La nobleza"
+      }
+    },
+    {
+      "id": 102,
+      "pagina": 34,
+      "letra": "T",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Tipografía diseñada por Stanley Morison y Victor Lardent para mejorar la legibilidad del diario The Times.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Times New Roman"
+      }
+    },
+    {
+      "id": 103,
+      "pagina": 35,
+      "letra": "Ñ",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Viñeta",
+        "pregunta": "Proteje al niño"
+      },
+      "respuesta": {
+        "texto": "Josef Müller"
+      }
+    },
+    {
+      "id": 104,
+      "pagina": 35,
+      "letra": "O",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Los retratos de Marilyn Monroe son íconos del Pop Art y fueron realizados mediante serigrafía industrial.",
+        "pregunta": "¿Qué artista reprodujo la imagen de Marilyn Monroe de esta manera?"
+      },
+      "respuesta": {
+        "texto": "Andy Warhol"
+      }
+    },
+    {
+      "id": 105,
+      "pagina": 35,
+      "letra": "O",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "En la denominada “Estrategia de Aspen”, la CCA contrató al exmaestro de la Bauhaus",
+        "pregunta": "¿Cómo se llama el diseñador que se convirtió en el cerebro artístico elevando la publicidad de cajas de cartón a la categoría de arte filosófico?"
+      },
+      "respuesta": {
+        "texto": "Herbert Bayer"
+      }
+    },
+    {
+      "id": 106,
+      "pagina": 36,
+      "letra": "N",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Otl Aicher desarrolló la comunicación visual de esta empresa; diseñó su identidad corporativa, manuales, instructivos, catálogos, publicidad, packaging y exhibidores.",
+        "pregunta": "¿Cuál es el nombre de la empresa de electrodomésticos cuya comunicación visual fue diseñada por Aicher?"
+      },
+      "respuesta": {
+        "texto": "Braun"
+      }
+    },
+    {
+      "id": 107,
+      "pagina": 36,
+      "letra": "Q",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "En la Antigüedad la escritura lapidaria organizaba los textos utilizando distintos tamaños de letras y espacios según la importancia del mensaje.",
+        "pregunta": "¿Para qué se organizaba un escrito guiando la lectura según la importancia?"
+      },
+      "respuesta": {
+        "texto": "Jerarquía"
+      }
+    },
+    {
+      "id": 108,
+      "pagina": 36,
+      "letra": "X",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Alexandre de Riquer fue uno de los máximos exponentes del Modernismo catalán y difundió marcas de propiedad en publicaciones de Barcelona.",
+        "pregunta": "¿Cómo se denomina la marca de propiedad que se coloca en los libros para indicar a quién pertenecen?"
+      },
+      "respuesta": {
+        "texto": "Ex Libris"
+      }
+    },
+    {
+      "id": 109,
+      "pagina": 37,
+      "letra": "G",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Su obra representa una de las máximas expresiones del Art Nouveau. Es reconocido por sus texturas doradas, simbolismo y ornamentación inspirada en mosaicos bizantinos.",
+        "pregunta": "¿Cuál es el nombre del pintor austríaco referente de la Secesión de Viena?"
+      },
+      "respuesta": {
+        "texto": "Gustav Klimt"
+      }
+    },
+    {
+      "id": 110,
+      "pagina": 37,
+      "letra": "R",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Movimiento artístico del siglo XVIII caracterizado por un estilo alegre, refinado y por el gusto por la decoración abundante.",
+        "pregunta": "¿Cómo se llama este movimiento?"
+      },
+      "respuesta": {
+        "texto": "Rococó"
+      }
+    },
+    {
+      "id": 111,
+      "pagina": 37,
+      "letra": "W",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Comprendió el impacto de la cultura de consumo y convirtió productos cotidianos y celebridades en íconos del arte contemporáneo.",
+        "pregunta": "¿Cuál es el apellido del artista?"
+      },
+      "respuesta": {
+        "texto": "Warhol"
+      }
+    },
+    {
+      "id": 112,
+      "pagina": 38,
+      "letra": "A",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Ilustrador peruano reconocido mundialmente por sus famosas 'Varga Girls', que definieron el ideal estético del Pin-Up.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Otl Aicher"
+      }
+    },
+    {
+      "id": 113,
+      "pagina": 38,
+      "letra": "A",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "¿Quien dijo la siguiente frase?",
+        "pregunta": "El diseño no es arte. El diseño es resolver problemas."
+      },
+      "respuesta": {
+        "texto": "Alberto Vargas"
+      }
+    },
+    {
+      "id": 114,
+      "pagina": 38,
+      "letra": "H",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Fue director de arte en DDB y desarrolló la histórica identidad visual de Volkswagen.",
+        "pregunta": "¿Cuál es el nombre del diseñador?"
+      },
+      "respuesta": {
+        "texto": "Helmut Krone"
+      }
+    },
+    {
+      "id": 115,
+      "pagina": 39,
+      "letra": "O",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Victor Vasarely revolucionó la percepción visual mediante formas geométricas e ilusiones ópticas.",
+        "pregunta": "¿De qué movimiento artístico es considerado padre?"
+      },
+      "respuesta": {
+        "texto": "Op Art"
+      }
+    },
+    {
+      "id": 116,
+      "pagina": 39,
+      "letra": "U",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Familia tipográfica diseñada por Adrian Frutiger en 1957 para el Estilo Tipográfico Internacional.",
+        "pregunta": "¿Cómo se llama esta tipografía?"
+      },
+      "respuesta": {
+        "texto": "Univers"
+      }
+    },
+    {
+      "id": 117,
+      "pagina": 39,
+      "letra": "N",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Edificio ubicado en el barrio de Once cuya fachada presenta flores de lirio en hierro forjado, cerámica esmaltada y relieves.",
+        "pregunta": "¿Con qué estilo se relaciona el Palacio de los Lirios?"
+      },
+      "respuesta": {
+        "texto": "Art Nouveau"
+      }
+    },
+    {
+      "id": 118,
+      "pagina": 40,
+      "letra": "T",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Autor del manifiesto 'Die Neue Typographie', publicado en 1928.",
+        "pregunta": "¿Cuál es el apellido del tipógrafo y diseñador?"
+      },
+      "respuesta": {
+        "texto": "Tschichold"
+      }
+    },
+    {
+      "id": 119,
+      "pagina": 40,
+      "letra": "B",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Bauspiel fue un juego didáctico creado por Alma Siedhoff-Buscher para una habitación infantil.",
+        "pregunta": "¿En el taller de qué escuela fue realizado?"
+      },
+      "respuesta": {
+        "texto": "Bauhaus"
+      }
+    },
+    {
+      "id": 120,
+      "pagina": 40,
+      "letra": "I",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Joaquín Sorolla fue conocido como 'el maestro de la luz' por pintar al aire libre captando la luz mediterránea.",
+        "pregunta": "¿Con qué movimiento artístico se relaciona?"
+      },
+      "respuesta": {
+        "texto": "Impresionismo"
+      }
+    },
+    {
+      "id": 121,
+      "pagina": 41,
+      "letra": "V",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Su estrategia visual apostaba por la sorpresa y la creatividad publicitaria.",
+        "pregunta": "¿Cuál es el nombre del publicista británico considerado uno de los padres de la publicidad moderna?"
+      },
+      "respuesta": {
+        "texto": "David Ogilvy"
+      }
+    },
+    {
+      "id": 122,
+      "pagina": 41,
+      "letra": "S",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "La obra hace referencia a 'Los amantes' de René Magritte y explora el inconsciente alterando la realidad.",
+        "pregunta": "¿Con qué vanguardia se relaciona?"
+      },
+      "respuesta": {
+        "texto": "Surrealismo"
+      }
+    },
+    {
+      "id": 123,
+      "pagina": 41,
+      "letra": "M",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "En el Imperio Carolingio las letras iniciales iluminadas adquirieron valor artístico y funcional.",
+        "pregunta": "¿Cómo se denominan estas iniciales?"
+      },
+      "respuesta": {
+        "texto": "Miniadas"
+      }
+    },
+    {
+      "id": 124,
+      "pagina": 42,
+      "letra": "F",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Autor de obras como 'El caminante sobre el mar de nubes' y máximo representante del Romanticismo alemán.",
+        "pregunta": "¿Cuál es su apellido?"
+      },
+      "respuesta": {
+        "texto": "Friedrich"
+      }
+    },
+    {
+      "id": 125,
+      "pagina": 42,
+      "letra": "C",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Diseñadora gráfica y cartelista alemana destacada en la publicidad de los años veinte.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Coscel-Young"
+      }
+    },
+    {
+      "id": 126,
+      "pagina": 42,
+      "letra": "J",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Maestro de la Bauhaus que revolucionó la teoría del color y desarrolló principios sobre la psicología y relatividad cromática.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Josef Albers"
+      }
+    },
+    {
+      "id": 127,
+      "pagina": 43,
+      "letra": "P",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Introdujo las vanguardias europeas en la publicidad estadounidense y transformó los logotipos en identidades corporativas.",
+        "pregunta": "¿Cuál es el nombre del diseñador considerado el padre del diseño gráfico moderno?"
+      },
+      "respuesta": {
+        "texto": "Paul Rand"
+      }
+    },
+    {
+      "id": 128,
+      "pagina": 43,
+      "letra": "X",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "La serie 'Woman' de Willem de Kooning se caracteriza por pinceladas agresivas y una figuración expresiva.",
+        "pregunta": "¿Con qué movimiento pictórico se relaciona?"
+      },
+      "respuesta": {
+        "texto": "Expresionismo"
+      }
+    },
+    {
+      "id": 129,
+      "pagina": 43,
+      "letra": "E",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Romain de Tirtoff fue ilustrador de Vogue y Harper's Bazaar y uno de los máximos representantes del Art Déco.",
+        "pregunta": "¿Con qué seudónimo es conocido?"
+      },
+      "respuesta": {
+        "texto": "Erté"
+      }
+    },
+    {
+      "id": 130,
+      "pagina": 44,
+      "letra": "Y",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Diseñador industrial francés que popularizó el Streamline Moderne y rediseñó numerosas marcas internacionales.",
+        "pregunta": "¿Cuál es su nombre?"
+      },
+      "respuesta": {
+        "texto": "Raymond Loewy"
+      }
+    },
+    {
+      "id": 131,
+      "pagina": 44,
+      "letra": "D",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Retrató a Marcelle Lender en la opereta Chilpéric mediante una litografía en color, elevando el cartel comercial a categoría artística.",
+        "pregunta": "¿Cuál es el nombre del artista?"
+      },
+      "respuesta": {
+        "texto": "Henri de Toulouse-Lautrec"
+      }
+    },
+    {
+      "id": 132,
+      "pagina": 44,
+      "letra": "K",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "Mask II (2002) es un autorretrato hiperrealista a escala monumental.",
+        "pregunta": "¿Cuál es el nombre del artista australiano?"
+      },
+      "respuesta": {
+        "texto": "Ron Mueck"
+      }
+    },
+    {
+      "id": 133,
+      "pagina": 45,
+      "letra": "L",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Durante más de cuarenta años supervisó la publicidad y el diseño corporativo de CBS.",
+        "pregunta": "¿Cuál es el nombre del diseñador gráfico estadounidense?"
+      },
+      "respuesta": {
+        "texto": "Lou Dorfsman"
+      }
+    },
+    {
+      "id": 134,
+      "pagina": 45,
+      "letra": "Z",
+      "tipo": "comienza",
+      "informacionGeneral": {
+        "enunciado": "Rediseñó la identidad del London Transport aplicando principios de la Bauhaus.",
+        "pregunta": "¿Con qué seudónimo se conoce al diseñador Hans Schleger?"
+      },
+      "respuesta": {
+        "texto": "Zéro"
+      }
+    },
+    {
+      "id": 135,
+      "pagina": 45,
+      "letra": "Q",
+      "tipo": "contiene",
+      "informacionGeneral": {
+        "enunciado": "La obra 'Dishes' (1964) toma como referencia un anuncio publicitario del detergente Tide y es un ícono del Pop Art.",
+        "pregunta": "¿Cuál es el apellido del artista pop?"
+      },
+      "respuesta": {
+        "texto": "Rosenquist"
+      }
+    }
+  ]
+}
