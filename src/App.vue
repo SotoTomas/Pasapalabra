@@ -6,8 +6,7 @@ import SettingsScreen from './components/SettingsScreen.vue';
 import GameScreen from './components/GameScreen.vue';
 import EndScreen from './components/EndScreen.vue';
 import { onAuthStateChanged } from "firebase/auth";
-import { auth } from "@/firebase";
-
+import { auth } from "./firebase";
 
 
 const store = useGameStore();
