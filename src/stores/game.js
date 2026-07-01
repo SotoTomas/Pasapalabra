@@ -4,7 +4,7 @@ import { loadQuestions } from '../utils/loadQuestions';
 import { shuffleArray } from '../utils/shuffleArray';
 import { answersMatch } from '../utils/normalizeAnswer';
 
-const DATA_PATH = '/data/preguntas.json';
+const DATA_PATH = `${import.meta.env.BASE_URL}data/preguntas.json`;
 
 const DEFAULT_SETTINGS = {
   timePerQuestion: 10,

@@ -33,7 +33,6 @@ function buildImageCandidates(id) {
   const padded = String(id).padStart(3, '0');
   return [
     `/assets/images/${id}.png`,
-    `/assets/images/${padded}.png`,
   ];
 }
 
