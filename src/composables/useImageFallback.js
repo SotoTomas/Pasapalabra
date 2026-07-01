@@ -32,8 +32,8 @@ function buildPlaceholderImage(label = '?') {
 function buildImageCandidates(id) {
   const padded = String(id).padStart(3, '0');
   return [
-    `/assets/images/${id}.png`,
-  ];
+    `${base}assets/images/${id}.png`,
+    `${base}assets/images/${padded}.png`,];
 }
 
 /**
