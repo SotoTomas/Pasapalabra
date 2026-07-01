@@ -3,6 +3,10 @@ import { ref } from 'vue';
 import { signInWithEmailAndPassword } from 'firebase/auth';
 import { auth } from '@/firebase';
 
+defineProps({
+  wasKickedOut: { type: Boolean, default: false },
+});
+
 const email = ref('');
 const password = ref('');
 const errorMessage = ref('');
@@ -28,6 +32,10 @@ async function login() {
     <div class="start-card">
       <span class="eyebrow">Acceso</span>
       <h1 class="title-display">Iniciar <span class="title-accent">Sesión</span></h1>
+
+      <p v-if="wasKickedOut" class="start-error">
+        ⚠ Tu sesión se cerró porque esta cuenta inició sesión en otro dispositivo.
+      </p>
 
       <form class="answer-form" style="flex-direction: column; gap: 12px;" @submit.prevent="login">
         <input

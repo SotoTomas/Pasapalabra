@@ -8,6 +8,7 @@ import EndScreen from './components/EndScreen.vue';
 import LoginScreen from './components/LoginScreen.vue';
 import { onAuthStateChanged } from 'firebase/auth';
 import { auth } from '@/firebase';
+import { claimSession, stopWatchingSession, wasKickedOut } from './composables/useSessionGuard';
 
 const store = useGameStore();
 const screen = ref('start');
@@ -18,6 +19,13 @@ const isCheckingAuth = ref(true);
 onAuthStateChanged(auth, (user) => {
   currentUser.value = user;
   isCheckingAuth.value = false;
+
+  if (user) {
+    claimSession(user.uid);
+  } else {
+    stopWatchingSession();
+    screen.value = 'start'; // vuelve al inicio del juego para el próximo login
+  }
 });
 
 onMounted(() => {
@@ -47,7 +55,7 @@ function handlePlayAgain() {
     <p class="start-subtitle">Verificando sesión…</p>
   </section>
 
-  <LoginScreen v-else-if="!currentUser" />
+  <LoginScreen v-else-if="!currentUser" :was-kicked-out="wasKickedOut" />
 
   <template v-else>
     <StartScreen
