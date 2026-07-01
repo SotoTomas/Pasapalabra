@@ -30,6 +30,7 @@ function buildPlaceholderImage(label = '?') {
  * @returns {string[]}
  */
 function buildImageCandidates(id) {
+  const base = import.meta.env.BASE_URL || '/';
   const padded = String(id).padStart(3, '0');
   return [
     `${base}assets/images/${id}.png`,
