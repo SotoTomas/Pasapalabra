@@ -6,8 +6,11 @@ import SettingsScreen from './components/SettingsScreen.vue';
 import GameScreen from './components/GameScreen.vue';
 import EndScreen from './components/EndScreen.vue';
 import { onAuthStateChanged } from "firebase/auth";
-import { auth } from "./firebase";
+import { auth } from "@/firebase";
 
+onAuthStateChanged(auth, (user) => {
+  console.log("user:", user);
+});
 
 const store = useGameStore();
 const screen = ref('start');
@@ -33,13 +36,6 @@ function handlePlayAgain() {
   goTo('start');
 }
 
-onAuthStateChanged(auth, (user) => {
-  if (user) {
-    console.log("Usuario logueado:", user.email);
-  } else {
-    console.log("No hay usuario");
-  }
-});
 </script>
 
 <template>

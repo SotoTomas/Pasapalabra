@@ -1,20 +1,17 @@
-// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
+import { getAnalytics } from "firebase/analytics";
+import { getAuth } from "firebase/auth";
 
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBrcoPwerFmNbzl6o4uvSw0qt1idkqGa5k",
-  authDomain: "pasapalabra-arte.firebaseapp.com",
-  projectId: "pasapalabra-arte",
-  storageBucket: "pasapalabra-arte.firebasestorage.app",
-  messagingSenderId: "505832108957",
-  appId: "1:505832108957:web:7e67c679a804e86d71f574",
-  measurementId: "G-7D7TXKK788"
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID
 };
 
-// Initialize Firebase
 const app = initializeApp(firebaseConfig);
-export { auth };
+const analytics = getAnalytics(app);
+
+export const auth = getAuth(app);

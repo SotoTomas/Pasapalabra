@@ -414,7 +414,7 @@
         "pregunta": "¿Cómo se llamaba?"
       },
       "respuesta": {
-        "texto": "El Lissitzky"
+        "texto": "Lissitzky"
       }
     },
     {
@@ -492,7 +492,7 @@
         "pregunta": "¿Cuál es el apellido del diseñador gráfico y teórico alemán que publicó este manifiesto?"
       },
       "respuesta": {
-        "texto": "Jan Tschichold"
+        "texto": "Lissitzky"
       }
     },
     {
@@ -615,10 +615,10 @@
     {
       "id": 48,
       "pagina": 16,
-      "letra": "Ñ",
-      "tipo": "contiene",
+      "letra": "?",
+      "tipo": "Descifrá la cita",
       "informacionGeneral": {
-        "enunciado": "Viñeta",
+        "enunciado": "¿Quien dijo la siguiente frase?",
         "pregunta": "\"El diseño es pensamiento hecho visual.\" — ."
       },
       "respuesta": {
