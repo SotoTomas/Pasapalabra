@@ -284,7 +284,7 @@
         "pregunta": "¿Cuál es su apellido?"
       },
       "respuesta": {
-        "texto": "György Kepes"
+        "texto": "Kepes"
       }
     },
     {
@@ -342,8 +342,8 @@
     {
       "id": 27,
       "pagina": 9,
-      "letra": "Ñ",
-      "tipo": "contiene",
+      "letra": "",
+      "tipo": "Descifrá la cita",
       "informacionGeneral": {
         "enunciado": "\"Todo es diseño, ¡Todo!\"",
         "pregunta": "¿Qué elemento corresponde a esta definición?"
@@ -401,7 +401,7 @@
         "pregunta": "¿Cuál es el apellido del pintor, escultor, diseñador gráfico, escenógrafo y publicista italiano?"
       },
       "respuesta": {
-        "texto": "Fortunato Depero"
+        "texto": "Depero"
       }
     },
     {
@@ -473,7 +473,7 @@
       "id": 37,
       "pagina": 13,
       "letra": "W",
-      "tipo": "contiene",
+      "tipo": "comienza",
       "informacionGeneral": {
         "enunciado": "Arquitecto, urbanista y diseñador alemán que, tras exiliarse en Estados Unidos, fue profesor y jefe del Departamento de Arquitectura de Harvard.",
         "pregunta": "¿Cuál es su nombre?"
@@ -505,7 +505,7 @@
         "pregunta": "¿Cuál es su apellido?"
       },
       "respuesta": {
-        "texto": "Georges Seurat"
+        "texto": "Seurat"
       }
     },
     {
@@ -557,7 +557,7 @@
         "pregunta": "¿Cómo se llama esta máquina?"
       },
       "respuesta": {
-        "texto": "Prensa de vapor"
+        "texto": "Prensa rotativa"
       }
     },
     {
@@ -615,11 +615,11 @@
     {
       "id": 48,
       "pagina": 16,
-      "letra": "?",
+      "letra": "",
       "tipo": "Descifrá la cita",
       "informacionGeneral": {
-        "enunciado": "¿Quien dijo la siguiente frase?",
-        "pregunta": "\"El diseño es pensamiento hecho visual.\" — ."
+        "enunciado": "\"El diseño es pensamiento hecho visual.\" — .",
+        "pregunta": "¿Quien dijo la frase?"
       },
       "respuesta": {
         "texto": "Saul Bass"
@@ -635,7 +635,7 @@
         "pregunta": "¿Cuál es el apellido del ilustrador?"
       },
       "respuesta": {
-        "texto": "Norman Rockwell"
+        "texto": "Rockwell"
       }
     },
     {
@@ -787,8 +787,8 @@
       "letra": "D",
       "tipo": "comienza",
       "informacionGeneral": {
-        "enunciado": "Diseñadora y cartelista destacada de la gráfica publicitaria alemana de los años veinte.",
-        "pregunta": "¿Cuál es su nombre?"
+        "enunciado": "El diseño gráfico alemán se caracterizó por una profesionalización técnica y racional que desplazó al artista individualista.",
+        "pregunta": "¿Cuál es el nombre de la Diseñadora Gráfica y artista de carteles alemana, destacada en la gráfica publicitaria de los años 20?"
       },
       "respuesta": {
         "texto": "Dore Corty"
@@ -889,7 +889,7 @@
       "id": 69,
       "pagina": 23,
       "letra": "K",
-      "tipo": "comienza",
+      "tipo": "contiene",
       "informacionGeneral": {
         "enunciado": "Artista-ingeniero soviético que llevó al extremo el Manifiesto Productivista.",
         "pregunta": "¿Cuál es su apellido?"
@@ -921,7 +921,7 @@
         "pregunta": "¿Qué sector de la sociedad los utilizaba?"
       },
       "respuesta": {
-        "texto": "Nobleza"
+        "texto": "La Nobleza"
       }
     },
     {
@@ -999,20 +999,20 @@
         "pregunta": "¿Cuál es su nombre?"
       },
       "respuesta": {
-        "texto": "Merli Ehrman"
+        "texto": "Anni Albers"
       }
     },
     {
       "id": 78,
       "pagina": 26,
-      "letra": "Ñ",
-      "tipo": "contiene",
+      "letra": "",
+      "tipo": "Descifrá la cita",
       "informacionGeneral": {
-        "enunciado": "\"El diseño no es decoración, es comunicación visual.\" — Milton Glaser.",
-        "pregunta": "¿Qué elemento corresponde?"
+        "enunciado": "\"El diseño no es decoración, es comunicación visual.\"",
+        "pregunta": "¿Quién dijo esa frase?"
       },
       "respuesta": {
-        "texto": "Viñeta"
+        "texto": "Milton Glaser"
       }
     },
     {
@@ -1162,7 +1162,7 @@
       "id": 90,
       "pagina": 30,
       "letra": "D",
-      "tipo": "comienza",
+      "tipo": "contiene",
       "informacionGeneral": {
         "enunciado": "Artista surrealista que creó el método paranoico-crítico para acceder al subconsciente.",
         "pregunta": "¿Cuál es su nombre?"
@@ -1175,7 +1175,7 @@
       "id": 91,
       "pagina": 31,
       "letra": "M",
-      "tipo": "contiene",
+      "tipo": "comienza",
       "informacionGeneral": {
         "enunciado": "Después de 1945 la prosperidad económica permitió el crecimiento multinacional de las agencias de publicidad.",
         "pregunta": "¿Cómo se llama la avenida de Nueva York conocida como 'el cuartel general de la persuasión'?"
@@ -1220,14 +1220,14 @@
         "pregunta": "¿Cuál es su nombre?"
       },
       "respuesta": {
-        "texto": "Helmut Krone"
+        "texto": "Herbert Matter"
       }
     },
     {
       "id": 95,
       "pagina": 32,
       "letra": "U",
-      "tipo": "comienza",
+      "tipo": "contiene",
       "informacionGeneral": {
         "enunciado": "Durante el período entre guerras el diseño francés celebró la vida y el consumo dando lugar a los 'años locos'.",
         "pregunta": "¿Cuál es el nombre del diseñador del afiche?"
@@ -1265,21 +1265,21 @@
     {
       "id": 98,
       "pagina": 33,
-      "letra": "Ñ",
-      "tipo": "contiene",
+      "letra": "",
+      "tipo": "Descifrá la cita",
       "informacionGeneral": {
-        "enunciado": "\"Lo que importa es estar presente en el trabajo que haces.\" — Paula Scher.",
-        "pregunta": "¿Qué elemento corresponde?"
+        "enunciado": "\"Lo que importa es estar presente en el trabajo que haces.\"",
+        "pregunta": "¿Quién dijo esa frase?"
       },
       "respuesta": {
-        "texto": "Viñeta"
+        "texto": "Paula Scher"
       }
     },
     {
       "id": 99,
       "pagina": 33,
       "letra": "R",
-      "tipo": "comienza",
+      "tipo": "contiene",
       "informacionGeneral": {
         "enunciado": "Diseñador gráfico considerado el más distinguido de Estados Unidos y padre de la identidad corporativa moderna.",
         "pregunta": "¿Cuál es su apellido?"
@@ -1292,13 +1292,13 @@
       "id": 100,
       "pagina": 34,
       "letra": "S",
-      "tipo": "comienza",
+      "tipo": "contiene",
       "informacionGeneral": {
         "enunciado": "\"Orange and Yellow\" de Mark Rothko (1956) es una obra referente de la pintura de campos de color.",
         "pregunta": "¿A qué movimiento artístico pertenece?"
       },
       "respuesta": {
-        "texto": "Expresionismo Abstracto Americano"
+        "texto": "Expresionismo Abstracto Americano / Campos de Color"
       }
     },
     {
@@ -1330,11 +1330,11 @@
     {
       "id": 103,
       "pagina": 35,
-      "letra": "Ñ",
-      "tipo": "contiene",
+      "letra": "",
+      "tipo": "Descifrá la cita",
       "informacionGeneral": {
-        "enunciado": "Viñeta",
-        "pregunta": "Proteje al niño"
+        "enunciado": "Protejan al niño",
+        "pregunta": "¿Quien dijo la frase?"
       },
       "respuesta": {
         "texto": "Josef Müller"
@@ -1356,7 +1356,7 @@
     {
       "id": 105,
       "pagina": 35,
-      "letra": "O",
+      "letra": "Y",
       "tipo": "contiene",
       "informacionGeneral": {
         "enunciado": "En la denominada “Estrategia de Aspen”, la CCA contrató al exmaestro de la Bauhaus",
@@ -1454,7 +1454,7 @@
         "pregunta": "¿Cuál es su nombre?"
       },
       "respuesta": {
-        "texto": "Otl Aicher"
+        "texto": "Alberto Vargas"
       }
     },
     {
@@ -1467,7 +1467,7 @@
         "pregunta": "El diseño no es arte. El diseño es resolver problemas."
       },
       "respuesta": {
-        "texto": "Alberto Vargas"
+        "texto": "Otl Aicher"
       }
     },
     {
@@ -1623,7 +1623,7 @@
         "pregunta": "¿Cuál es su nombre?"
       },
       "respuesta": {
-        "texto": "Coscel-Young"
+        "texto": "Dore Corty"
       }
     },
     {
