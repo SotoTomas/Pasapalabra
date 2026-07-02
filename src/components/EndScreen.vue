@@ -1,4 +1,5 @@
 <script setup>
+//sasa
 import { useGameStore } from '../stores/game';
 import { formatTime } from '../utils/formatTime';
 
