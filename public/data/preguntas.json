@@ -278,7 +278,7 @@
       "id": 22,
       "pagina": 8,
       "letra": "K",
-      "tipo": "contiene",
+      "tipo": "comienza",
       "informacionGeneral": {
         "enunciado": "Pintor, fotógrafo, diseñador, teórico del arte y educador húngaro que dirigió el Taller de Luz y Color en la Nueva Bauhaus de Chicago.",
         "pregunta": "¿Cuál es su apellido?"
@@ -486,7 +486,7 @@
       "id": 38,
       "pagina": 13,
       "letra": "L",
-      "tipo": "comienza",
+      "tipo": "contiene",
       "informacionGeneral": {
         "enunciado": "\"Die Neue Typographie\" fue publicada en 1928 e influenciada por el Constructivismo soviético, El Lissitzky y la Bauhaus.",
         "pregunta": "¿Cuál es el apellido del diseñador gráfico y teórico alemán que publicó este manifiesto?"
@@ -1311,7 +1311,7 @@
         "pregunta": "¿Qué sector de la sociedad francesa del siglo XVIII disfrutaba de los salones decorados al estilo Rococó?"
       },
       "respuesta": {
-        "texto": "La nobleza"
+        "texto": "La élite"
       }
     },
     {
