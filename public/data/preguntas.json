@@ -1330,14 +1330,14 @@
     {
       "id": 103,
       "pagina": 35,
-      "letra": "",
-      "tipo": "Descifrá la cita",
+      "letra": "Z",
+      "tipo": "comienza",
       "informacionGeneral": {
-        "enunciado": "Protejan al niño",
-        "pregunta": "¿Quien dijo la frase?"
+        "enunciado": "El diseño suizo, llamado también Estilo Internacional Suizo, presenta la información con claridad, legibilidad y objetividad.",
+        "pregunta": "¿Cuál es el nombre de la escuela europea que propone estudio combinados de arte y diseño?"
       },
       "respuesta": {
-        "texto": "Josef Müller"
+        "texto": "Zúrich"
       }
     },
     {

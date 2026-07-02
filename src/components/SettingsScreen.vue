@@ -14,6 +14,7 @@ function save() {
     order: form.order,
     autoShowAnswer: form.autoShowAnswer,
     sound: form.sound,
+    hardMode: form.hardMode,
   });
   emit('back');
 }
@@ -32,7 +33,7 @@ function save() {
           <option :value="15">15 segundos</option>
           <option :value="20">20 segundos</option>
           <option :value="30">30 segundos</option>
-          <option :value="9999">Infinito</option>
+          <option :value="9999">Sin límite</option>
         </select>
       </div>
 
@@ -58,6 +59,21 @@ function save() {
           <option :value="true">Activados</option>
           <option :value="false">Desactivados</option>
         </select>
+      </div>
+
+      <div class="settings-row">
+        <label for="setting-hardmode">Modo difícil (sin imágenes)</label>
+        <button
+          id="setting-hardmode"
+          type="button"
+          class="toggle-btn"
+          :class="{ 'toggle-btn--on': form.hardMode }"
+          role="switch"
+          :aria-checked="form.hardMode"
+          @click="form.hardMode = !form.hardMode"
+        >
+          <span class="toggle-btn__thumb"></span>
+        </button>
       </div>
 
       <div class="settings-actions">

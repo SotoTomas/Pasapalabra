@@ -1,5 +1,6 @@
 <script setup>
 import { computed, ref, watch, nextTick } from 'vue';
+import { useGameStore } from '../stores/game';
 import { useImageFallback } from '../composables/useImageFallback';
 
 const props = defineProps({
@@ -8,6 +9,9 @@ const props = defineProps({
 });
 
 const emit = defineEmits(['submit']);
+
+const store = useGameStore();
+const isHardMode = computed(() => store.settings.hardMode);
 
 const answerValue = ref('');
 const inputRef = ref(null);
@@ -60,13 +64,17 @@ function handleSubmit() {
 
 <template>
   <div class="question-card pop-in" :class="[statusClass, { shake: question.status === 'incorrect' || question.status === 'timeout' }]">
-    <div class="question-card__image-wrap">
+    <div v-if="!isHardMode" class="question-card__image-wrap">
       <img
         class="question-card__image"
         :src="imageSrc"
         :alt="`Imagen de la pregunta ${question.id}`"
         @error="onImageError"
       />
+    </div>
+
+    <div v-else class="hard-mode-badge">
+      🙈 Modo difícil — sin imagen
     </div>
 
     <p class="question-letter">{{ letterLabel }}</p>
