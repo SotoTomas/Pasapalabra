@@ -89,7 +89,7 @@
         "pregunta": "¿Cuál es su nombre?"
       },
       "respuesta": {
-        "texto": "Nitsche"
+        "texto": "Erik Nitsche"
       }
     },
     {
@@ -202,7 +202,7 @@
       "letra": "K",
       "tipo": "comienza",
       "informacionGeneral": {
-        "enunciado": "Diseñador gráfico y editor alemán que utilizó la publicidad, el cartel comercial y la postal para influenciar al ciudadano promedio.",
+        "enunciado": "Diseñador gráfico y editor alemán que utilizó la publicidad, el cartel comercial y la postal para influenciar al ciudadano promedio. En su solitario camino no solo atacó al poder, sino que utilizó las propias herramientas de la sociedad de consumo como la publicidad, el cartel comercial y la postal para influenciar al ciudadano promedio.",
         "pregunta": "¿Cómo se llama?"
       },
       "respuesta": {
@@ -1099,8 +1099,8 @@
       "letra": "G",
       "tipo": "comienza",
       "informacionGeneral": {
-        "enunciado": "Director de arte de las tapas de Esquire en los años 60, conocido por su provocación e ironía.",
-        "pregunta": "¿Cuál es su nombre?"
+        "enunciado": "En las tapas de Esquire, de los años 60, utilizaba la ironía y el descaro. Sus diseños fueron insolentes y el desafiaron la lógica comercial.",
+        "pregunta": "¿Cuál es el nombre del niño prodigio de la provocación?"
       },
       "respuesta": {
         "texto": "George Lois"
