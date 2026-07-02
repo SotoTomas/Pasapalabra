@@ -42,6 +42,7 @@ function save() {
         <select id="setting-order" v-model="form.order" class="select">
           <option value="normal">Normal</option>
           <option value="random">Aleatorio</option>
+          <option value="alfabetico">Alfabético (Rosco)</option>
         </select>
       </div>
 

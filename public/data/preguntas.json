@@ -213,7 +213,7 @@
       "id": 17,
       "pagina": 6,
       "letra": "N",
-      "tipo": "contiene",
+      "tipo": "comienza",
       "informacionGeneral": {
         "enunciado": "Pionero de la publicidad corporativa, el diseño editorial y la identidad visual con un estilo geométrico y riguroso.",
         "pregunta": "¿Cuál es el apellido del diseñador gráfico suizo?"
@@ -226,7 +226,7 @@
       "id": 18,
       "pagina": 6,
       "letra": "U",
-      "tipo": "contiene",
+      "tipo": "comienza",
       "informacionGeneral": {
         "enunciado": "Hochschule für Gestaltung fue fundada por Inge Aicher-Scholl, Otl Aicher y Max Bill en 1953.",
         "pregunta": "¿Con qué nombre es conocida esta escuela?"
